@@ -1,2 +1,2 @@
-# DGI-ML-Lab
-Machine Learning Lab for DGI
+# DGI-Lab
+Machine and Deep Learning Lab for DGI
