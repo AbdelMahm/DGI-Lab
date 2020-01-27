@@ -22,7 +22,8 @@ $source activate dgimllab
 (dgimllab)$pip3 install numpy scipy pandas matplotlib 
 (dgimllab)$pip3 install scikit-learn
 (dgimllab)$pip3 install jupyter
-(dgimllab)$pip install --ignore-installed --upgrade tensorflow 
+(dgimllab)$pip install --ignore-installed --upgrade tensorflow
+(dgimllab)$pip install -U nltk
 #### list packages
 (dgimllab)$ conda list
 
