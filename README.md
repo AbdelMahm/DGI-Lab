@@ -23,7 +23,7 @@ $source activate dgimllab
 (dgimllab)$pip3 install scikit-learn
 (dgimllab)$pip3 install jupyter
 (dgimllab)$pip install --ignore-installed --upgrade tensorflow
-(dgimllab)$pip install -U nltk
+(dgimllab)$pip install -U nltk regex
 #### list packages
 (dgimllab)$ conda list
 
