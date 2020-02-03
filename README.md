@@ -4,7 +4,7 @@ Machine and Deep Learning Lab for DGI
 
 ## Using Colab
 
-Just click the colab icon insde each notebook
+Just click the colab icon inside each notebook !
 
 ## Using local Jupyetr notebook
 
