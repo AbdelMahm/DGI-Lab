@@ -6,7 +6,7 @@ Machine and Deep Learning Lab for DGI
 
 Just click the colab icon inside each notebook !
 
-## Using local Jupyetr notebook
+## Using local Jupyter notebook
 
 ### Install Miniconda
 
