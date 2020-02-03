@@ -20,11 +20,10 @@ Miniconda from https://conda.io/miniconda.html
 
 ### Create conda environment
 
-#### Create environment from environment.yml
+#### create environment from environment.yml
 
 \$conda env create -f environment.yml
 
 #### activate env
 
-$source activate dgimllab
-(dgimllab)$
+\$source activate dgimllab
